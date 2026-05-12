@@ -1,2 +1,0 @@
-# evomedya.github.io
-EvoMedia
